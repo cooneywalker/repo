@@ -1,1 +1,7 @@
-{}
+{
+  "prefectures": [
+    { "name": "Tokyo", "gdp": 106, "income": 5.5, "jobs": 1.5, "population": 14.0 },
+    { "name": "Aichi", "gdp": 40, "income": 3.8, "jobs": 1.6, "population": 7.5 },
+    { "name": "Fukui", "gdp": 1.8, "income": 3.3, "jobs": 1.8, "population": 0.76 }
+  ]
+}
